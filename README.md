@@ -6,4 +6,5 @@ The key trick is that we need to tell webpack to actually generate two bundle.js
 
 ```bash
 npm install
-npm start```
+npm start
+```
