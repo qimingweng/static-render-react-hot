@@ -1,4 +1,5 @@
 var StaticRenderPlugin = require('static-render-webpack-plugin');
+var path = require('path');
 
 module.exports = {
   entry: [
